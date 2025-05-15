@@ -29,7 +29,7 @@ export default function Form() {
         <CardHeader>
           <CardTitle className={'text-2xl'}>Réserve ton ticket !</CardTitle>
           <div className="txt flex justify-between items-center">
-            <p className='w-[80%] text-justify text-xs sm:text-sm md:text-md lg:text-lg text-gray-700 font-thin'>La navette mise en place pour vous ammenez de la fierte sous jarre jusqu'au festival est gratuite, avant de nous aider à nous organiser dis nous quand tu pense être la </p>
+            <p className='w-[80%] text-justify text-xs sm:text-sm md:text-md lg:text-lg text-gray-700 font-thin'>Cette navette mise en place pour vous ammener de La Ferté-sous-Jouarre jusqu'au festival est gratuite. Afin de nous aider à nous organiser dis nous quand tu pense être la </p>
             <Image className='w-[12vw] sm:w-[7vw] md:w-[6vw] lg:w-[5vw]' src='/assets/perso3.png' width={500} height={1000} alt='bus'/>
           </div>
         </CardHeader>
