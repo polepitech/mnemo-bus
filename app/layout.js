@@ -18,7 +18,7 @@ const limelight = Limelight({
 });
 
 export const metadata = {
-  title: "MnemoBus",
+  title: "MemoBus",
   description: "Reserve ton ticket",
 };
 
